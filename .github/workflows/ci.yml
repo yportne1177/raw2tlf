@@ -1,0 +1,30 @@
+﻿name: CI
+
+on:
+  push:
+    branches: [ main, 'feat/**' ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install deps
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          pip install -r requirements.txt
+      - name: Run tests
+        run: |
+          source .venv/bin/activate
+          pytest -q
+      - name: Smoke convert
+        run: |
+          source .venv/bin/activate
+          python convert.py --mapping mappings/ae_mapping.yaml --input data/sample_raw/ae.csv --output data/sample_tlf/ae_tlf_ci.csv

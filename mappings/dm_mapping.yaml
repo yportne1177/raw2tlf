@@ -1,0 +1,5 @@
+﻿columns:
+  SUBJECT_ID: USUBJID
+  AGE: AGE
+  SEX: SEX
+  RACE: RACE
