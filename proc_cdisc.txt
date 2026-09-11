@@ -1,0 +1,22 @@
+filename response TEMP;
+  
+proc http
+    url="https://library.cdisc.org/api/mdr/products"
+    out=response;
+    headers
+        "api-key"="6a59b928052940ceb335275159b7e245"
+        "Accept"="application/json";
+run;
+  
+data _null_;
+    infile response;
+    input;
+    put _infile_;
+run;
+
+/* CORRECTED: Changed 'fileref=resp' to 'fileref=response' */
+libname apiresp json fileref=response;
+
+proc datasets lib=apiresp; run;
+
+proc print data=apiresp.alldata; run;  /* Adjust table name as needed */
