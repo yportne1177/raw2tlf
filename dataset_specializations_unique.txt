@@ -1,0 +1,366 @@
+Laboratory Tests;Nitroso Carcinogens;Carcinogenic Nitrosamines
+QRS;Functional Assessment;6 Minute Walk Functional Test;SIX MINUTE WALK;SIXMW1;6MWT
+QRS;Functional Assessment;6 Minute Walk Functional Test;SIX MINUTE WALK;SIXMW1;6MWT;6MWT Functional Test Question
+QRS Instrument Questions
+QRS;Clinical or Research Assessment Classification;Abnormal Involuntary Movement Scale Clinical Classification;AIMS;AIMS01;AIMS Clinical Classification Question
+QRS;Clinical or Research Assessment Classification;AJCC Cancer Staging Manual
+QRS;Clinical or Research Assessment Classification;AJCC Cancer Staging Manual 7th Edition Clinical Classification;AJCC V7;AJCC1;AJCC7
+QRS;Clinical or Research Assessment Classification;AJCC Cancer Staging Manual 7th Edition Clinical Classification;AJCC V7;AJCC V7 Clinical Classification Question
+QRS;Clinical or Research Assessment Classification;Acute Physiology and Chronic Health Evaluation II Clinical Classification;APACHE II;APCH1;APACHE II Clinical Classification Question
+QRS;Clinical or Research Assessment Classification;ATLAS Score Clinical Classification;ATLAS;ATLAS1;ATLAS Clinical Classification Question
+QRS;Clinical or Research Assessment Classification;ATLAS Score Clinical Classification;ATLAS;ATLAS1
+Vital Signs;Body Measurements
+Reproductive Findings;Clinical Findings Indicator;Indicator
+Laboratory Tests;Abnormal Laboratory Test Results
+Findings;Clinical Test Results
+Clinical Findings Indicator;Indicator
+QRS;Clinical or Research Assessment Classification;Abnormal Involuntary Movement Scale Clinical Classification;AIMS;AIMS01
+Laboratory Tests;Hematology Tests;Blood Cell Counts;White Blood Cell Counts
+Laboratory Tests;Hematology Tests;Blood Cell Counts;Leukocyte Counts;Neutrophil Counts
+Findings About Cardiovascular Events;Cardiovascular System Finding
+Laboratory Tests;Chemistry Tests;Hematology Tests;Coagulation Study;Blood Protein Measurements;Factor III Measurements
+Clinical Trial Attribute;Trial Summary
+Trial Summary
+Reproductive Findings;Age
+QRS;Clinical or Research Assessment Classification;Acute Physiology and Chronic Health Evaluation II Clinical Classification;APACHE II;APCH1
+Respiratory System Findings
+Event Occurrence Indicators
+Subject Disposition
+Age
+Death Diagnosis and Details;Age
+Electrocardiogram Findings;Electrocardiogram Measurements;ECG Measurements
+Respiratory System Findings;Pulmonary Function Test
+Laboratory Tests;Chemistry Tests;Liver Function Tests;Drug-Induced Liver Injury;DILI
+Laboratory Tests;Chemistry Tests;Ratio Measurements
+Substance Use;Personal Medical History;Medical History
+Immunology Tests;Immunodiagnostic Procedure;Skin Response
+Laboratory Tests;Immunogenicity Specimen Assessments
+Laboratory Tests;Immunogenicity Specimen Assessments;Immunoglobulin A Measurements;Allergen-induced Antibody Measurements
+Laboratory Tests;Immunogenicity Specimen Assessments;Immunoglobulin E Measurements;Allergen-induced Antibody Measurements
+Laboratory Tests;Immunogenicity Specimen Assessments;Immunoglobulin G Measurements;Allergen-induced Antibody Measurements
+Laboratory Tests;Immunogenicity Specimen Assessments;Immunoglobulin M Measurements;Allergen-induced Antibody Measurements
+Musculoskeletal Finding
+QRS;Functional Assessment;Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Functional Test;ADAS-Cog;ADC
+Analysis;Respiratory System Findings;Electrocardiogram Findings;Electrocardiogram Interpretation;ECG Findings;ECG Interpretation
+Oncology Standards;Disease Response;Disease Response Criteria;Disease Response and Clinical Classification;RS;LUGANO CLASSIFICATION
+Laboratory Tests;Hematology Tests;Blood Cell Counts;Erythrocyte Counts
+Vital Signs;Blood Pressure
+Laboratory Tests;Immunology Tests
+Events;Reported Events;Adverse Events
+Musculoskeletal Findings;Mass Measurements
+Subject Characteristics;Indicators
+Laboratory Tests;Chemistry Tests
+Laboratory Tests;Mixed Category Laboratory Procedure;Assay
+Electrocardiogram Findings;Electrocardiogram Abnormalities;ECG Findings;ECG Abnormalities
+Laboratory Tests;Immunogenicity Specimen Assessments;Autoantibody Measurements
+Diagnostic Imaging;Medical Imaging
+Indicator
+Reproductive Findings
+QRS;Clinical or Research Assessment Classification;Brief Psychiatric Rating Scale A Clinical Classification;BPRS-A;BPRSA1;BPRS-Anchored Clinical Classification Question
+Genetic Testing;Gene Expression Analysis;Genetic Variation Analysis;Molecular Analysis;Genetic Molecular Analysis
+Genetic Testing;Gene Expression Analysis;Molecular Analysis;Molecular Genetic Variation;Gene Abnormality
+Vital Signs;Energy Expenditure
+Oncology Standards;Disease Response;Disease Response Criteria;Disease Response and Clinical Classification;RS;RECIST 1.1;iRECIST
+Diagnostic Procedures;Biopsies
+Biospecimen Events
+Subject Characteristics
+Demographic Data;Demographics;Birth Event
+Symptom Indicator;Skin Response;Reproductive Findings
+Laboratory Tests
+Laboratory Tests;Hematology Tests;Blood Cell Counts;Blood Cell Count Ratio Measurements
+Findings;Clinical Test Result;Renal Function Tests;Urinary System Findings;Respiratory System Findings
+Vital Signs;Mass Measurement
+Vital Signs
+Vital Signs;Temperature
+Musculoskeletal Finding;T-Score
+Musculoskeletal Finding;Diagnostic Procedure
+Musculoskeletal Finding;Z-Score
+Procedures;Radiotherapy
+Procedures;Interventions
+Procedures;Interventions;Breast Cancer Procedures
+Staging;Breast Cancer
+Cancer;Carcinoma
+Surgeries;Procedures
+Surgeries
+Reproductive Findings;End Date
+Reproductive Findings;Start Date
+QRS;Clinical or Research Assessment Classification;Brief Psychiatric Rating Scale A Clinical Classification;BPRS-A;BPRSA1
+Musculoskeletal Finding;Score
+Laboratory Tests;Protein or Enzyme Measurements;Chemistry Tests
+QRS;Functional Assessment;Alzheimer's Disease Assessment Scale-Cognitive CDISC Version Functional Test;ADAS-Cog;ADC;ADAS-Cog CDISC Version Functional Test Question
+CDISC QRS Instruments Questions
+QRS;QRS Instrument Question;Clinical or Research Assessment Questionnaire;Combat Exposure Scale Questionnaire;CES;CES01;CES Questionnaire Question
+QRS;Clinical or Research Assessment Questionnaire;Clinical Global Impression Generic Modification Version Questionnaire;CGI02;CGI;CGI Generic Modification Version Questionnaire Question
+Laboratory Tests;Chemistry Tests;Drug Class Measurements
+Vital Signs;Cardiovascular Examination
+Laboratory Tests;Chemistry Tests;Gas Measurements
+Laboratory Tests;Chemistry Tests;Hemoglobin Measurements
+Laboratory Tests;Nitroso Carcinogens
+Cardiac Function Study
+Cardiovascular Examination
+Cardiovascular System Finding
+Death
+Tumor Results;Tumor Measurements
+Musculoskeletal Finding;Characteristic
+QRS;Clinical or Research Assessment Classification;Child-Pugh Clinical Classification;CHILD-PUGH CLASSIFICATION;Child-Pugh;CPS01;Child-Pugh Clinical Classification Question
+Laboratory Tests;Chemistry Tests;Electrolyte Measurements
+Laboratory Tests;Chemistry Tests;Lipid Measurements
+Laboratory Tests;Chemistry Tests;Hormone Measurements;Choriogonadotropin Measurements;HCG Measurements
+Diagnostic Procedures;Genetic Testing;Laboratory Tests;Blood Cell Counts;Tumor Results
+Clinical Test Result
+Findings;Clinical Courses
+Respiratory System Findings;Oncology Standards;Disease Response;Disease Response Criteria;Disease Response and Clinical Classification;RS
+QRS;Clinical or Research Assessment Questionnaire;Clinical Global Impression Generic Modification Version Questionnaire;CGI02;CGI
+Clinical Interpretation
+Clinical Observations
+Oncology Standards;Disease Response;Disease Response Criteria;Disease Response and Clinical Classification;RS;RANO;iRANO
+Eligibility Criteria;Clinical Trial Design
+Research or Clinical Assessmnet Tools
+Research or Clinical Assessment Tools
+QRS;Functional Assessment
+Clot Detection
+Laboratory Tests;Urinalysis;Urinary System Findings;Ophthalmic Examination
+QRS;Clinical or Research Assessment Questionnaire;Combat Exposure Scale Questionnaire;CES;CES01
+Diagnostic Imaging;Medical Imaging;Tomography
+Event Occurrence Indicators;Concomitant Medication
+Interventions;Substance Administration;Medication Administration;Concomitant Medication
+Oncology Standards;Tumor/Lesion Identification;TU;RECIST 1.1
+Laboratory Tests;Hematology Tests;Immunohematology Tests;Autoantibody Measurements;Antibody Measurements;Immunology Tests
+Genomics Findings;Genetic Variation Analysis
+Findings About Cardiovascular Events;Cardiovascular System Finding;Clot Detection
+Laboratory Tests;Microbiology Tests;Virology Tests;COVID-19 Tests;SARS-CoV-2 Tests
+Laboratory Tests;Chemistry Tests;Protein or Enzyme Type Measurements
+Laboratory Tests;Chemistry Tests;Clearance Rates;Creatinine Measurements
+Laboratory Tests;Chemistry Tests;Renal Function Tests
+Laboratory Tests;Chemistry Tests;Protein or Enzyme Measurements;Fibrin Degragation Products
+Termporal Qualifiers
+Death Diagnosis and Details;Indicator
+Death Diagnosis and Details;Expected Indicator
+Death Indicator
+Laboratory Tests;Chemistry Tests;Microbiology Tests
+Clinical Trial Attribute;Trial Summary;Respiratory System Findings
+Diagnostic Factor
+Diagnostic Imaging;Medical Imaging;Breast Cancer Diagnostic Procedures
+Procedures
+Diagnostic Imaging;Medical Imaging;Diagnostic Procedures
+Properties;Quantitative Concepts
+Laboratory Tests;Chemistry Tests;Dietary Mineral Measurements
+Laboratory Tests;Hematology Tests;Immunohematology Tests;Autoantibody Measurements;Antibody Measurements;Immunology Tests;Coombs Tests
+Laboratory Tests;Chemistry Tests;Liver Function Tests
+Oncology Standards;Disease Response;RS
+Oncology Standards;Tumor/Lesion Identification;TU
+Oncology Standards;Disease Response;Disease Response Criteria;Disease Response and Clinical Classification;RS
+Oncology Standards;Disease Response;Disease Response Criteria;Disease Response and Clinical Classification;RS;LUGANO CLASSIFICATION;IWC HALLEK CLL 2018
+Disease Response;Disease Response Criteria;Survival
+Person Status
+Clinical Trial Attribute;Trial Summary;Temporal Qualifier
+Clinical Trial Attribute;Trial Summary;Electrocardiogram Findings
+Electrocardiogram Findings;ECG Technical Quality
+QRS;Clinical or Research Assessment Classification;Eastern Cooperative Oncology Group Performance Status Clinical Classification;ECOG;ECOG1;ECOG Clinical Classification Question
+QRS;Clinical or Research Assessment Questionnaire;European Quality of Life Five Dimension Five Level Scale Questionnaire;EQ-5D-5L;EQ5D02;EQ-5D-5L Questionnaire Question
+QRS;Clinical or Research Assessment Classification;Eastern Cooperative Oncology Group Performance Status Clinical Classification;ECOG;ECOG1
+Time
+Electrocardiogram Findings;Electrocardiogram Interpretation;ECG Findings;ECG Interpretation
+Test Names
+Subject Disposition;Protocol Milestones
+Clinical Trial Attribute;Trial Summary;Date
+Endocrine Tests;Hormone Measurements
+Laboratory Tests;Hematology Tests;Blood Cell Counts
+Laboratory Tests;Hematology Tests
+Musculoskeletal Finding;Estimation Method
+Laboratory Tests;Chemistry Tests;Protein or Enzyme Type Measurements;Endocrine Tests;Hormone Measurements
+Demographic Data;Demographics;Ethnicity
+QRS;Clinical or Research Assessment Questionnaire;European Quality of Life Five Dimension Five Level Scale Questionnaire;EQ-5D-5L;EQ5D02
+Indicators
+Eligibility Criteria;Inclusion Exclusion Criteria
+Laboratory Tests;Biological Clearance Rates;Clearance Rates;Excreation Rates
+Expected Indicator
+Event Occurrence Indicators;Exposure
+Exposure as Collected
+Laboratory Tests;Immunology Tests;Genetic Testing;Gene Expression Analysis;Gene Products;Genetic Variation;Genetic Variation Analysis
+Vital Signs;Body Water Measurement
+Laboratory Tests;Chemistry Tests;Hematology Tests;Coagulation Study;Blood Protein Measurements
+Findings;Clinical Test Result
+Laboratory Tests;Chemistry Tests;Protein or Enzyme Measurements
+Vital Signs;Body Measurements;Fetal Body Measurements
+Vital Signs;Heart Findings;Fetal Heart Findings
+Findings;Respiratory System Findings
+Findings;Clinical Test Result;Respiratory System Findings
+Laboratory Tests;Chemistry Tests;Vitamin Measurements
+Musculoskeletal Finding;Clinical Findings Indicator
+Respiratory System Findings;Pulmonary Function Test;Vital Signs
+Laboratory Tests;Chemistry Tests;Endocrine Tests;Hormone Measurements
+Reproductive Findings;Height
+Laboratory Tests;Chemistry Tests;Liver Function Tests;Protein or Enzyme Type Measurements;Drug-Induced Liver Injury;DILI
+Laboratory Tests;Chemistry Tests;Gas Measurements;Respiratory System Findings
+Genomic Findings;Gene Expression Analysis
+Biochemical Process
+Molecular Analysis;Genetic Variation Analysis;Gene Expression Analysis;Oncology Standards
+Genomics Findings;Genetic Variation
+Genomics Findings;Genetic Variation Analysis;Oncology Standards;Genetic Testing;Gene Expression Analysis;Molecular Analysis;Laboratory Procedures
+Genetic Testing;Gene Expression Analysis;Genetic Variation;Genetic Variation Analysis
+Grade
+Findings;Clinical Test Result;Renal Function Tests;Urinary System Findings;Organ Transplant Status
+Laboratory Tests;Microbiology Tests
+Musculoskeletal Finding;Physical Strength
+Social Circumstances
+QRS;Clinical or Research Assessment Classification;Hamilton Anxiety Rating Scale Clinical Classification;HAM-A;HAMA;HAMA1;HAMA Questionnaire Question
+QRS;Clinical or Research Assessment Classification;Harvey-Bradshaw Index Clinical Classification;HBI;HBI01;Harvey-Bradshaw Index Clinical Classification Question
+Genetic Testing;Gene Expression Analysis;Gene Products;Genetic Variation;Genetic Variation Analysis;Cancer Biomarkers
+QRS;Clinical or Research Assessment Classification;Hamilton Anxiety Rating Scale Clinical Classification;HAM-A;HAMA;HAMA1
+QRS;Clinical or Research Assessment Classification;Harvey-Bradshaw Index Clinical Classification;HBI;HBI01
+Cardiac Function Study;Heart Rate Variability
+Characteristics
+Clinical Findings Indicator;Indicator;Urinary System Findings
+Laboratory Tests;Hematology Tests;Hemoglobin Measurements
+Laboratory Tests;Chemistry Tests;Microbiology Tests;Virology Tests
+Laboratory Tests;Immunology Tests;Microbiology Tests
+Laboratory Tests;Chemistry Tests;Endocrine Tests
+Laboratory Tests;Chemistry Tests;Hormone Measurements;Endocrine Tests;Protein or Enzyme Type Measurements
+Laboratory Tests;Hormone Measurements;Endocrine Tests;Protein or Enzyme Type Measurements
+Immunology Tests;Immunodiagnostic Procedure
+Eligibility Criteria;Inclusion Exclusion Criteria Yes No Indicator
+Socioeconomic Factors
+Clinical Findings Indicator;Clinical Trial Attribute;Death Diagnosis and Details;Disease Response;Event Occurrence Indicators;Exposure;Indicator;Oncology Standards;Recurrence;Reproductive Findings;Respiratory System Findings;Trial Summary;TU;Tumor/Lesion Identification;Urinary System Findings
+Longest Diameter;Skin Response
+Death Diagnosis and Details;Source
+Laboratory Tests;Chemistry Tests;Hematology Tests;Protein or Enzyme Type Measurements;Prothrombin Measurements;Coagulation Study
+Musculoskeletal Finding;Isometric Muscle Strength
+Musculoskeletal Finding;Isometric Muscle Strength, Flexion
+QRS;Clinical or Research Assessment Classification;Kurtzke Functional Systems Scores Clinical Classification;KFSS;KFSS1;KFSS Questionnaire Question
+QRS;Clinical or Research Assessment Classification;Karnofsky Performance Status Scale Clinical Classification;KPS SCALE;KPSS01;KPS Scale Questionnaire Question
+QRS;Clinical or Research Assessment Classification;Karnofsky Performance Status Scale Clinical Classification;KPS SCALE;KPSS01
+Cancer Biomarkers;Molecular Measurements
+QRS;Clinical or Research Assessment Classification;Kurtzke Functional Systems Scores Clinical Classification;KFSS;KFSS1
+Findings About Cardiovascular Events;Cardiovascular System Finding;Laboratory Test Result
+Laboratory Test Result
+Musculoskeletal Finding;Personal Attribute
+Findings;Clinical Test Result;Urinary System Findings
+Findings;Identification;Work-ups
+Behaviors
+Diagnostic Procedure;Blood Cell Counts
+Disease Response;Recurrence
+Location
+Death Diagnosis and Details;Location
+Oncology Standards;Tumor/Lesion Results;TR;RECIST 1.1
+Surgeries;Breast Cancer Procedures
+Clinical or Research Assessment Classification;Modified Van Assche Index Clinical Classification Question;Modified Van Assche Index Clinical Classification;MVAI;MVAI1
+Diagnostic Tests;Diagnostic Procedures;Gene Expression Analysis
+Musculoskeletal Finding;Mass Measurement
+Abnormal Finding;Tumor Identification
+Mean Diameter
+Medical Examination
+Reported Events;Medical History Events;Medical Conditions;Presenting Conditions
+Event Occurrence Indicators;Medical Procedure
+Oncology Standards;Metastasis
+Means
+Genetic Testing;Gene Expression Analysis;Molecular Analysis;Genetic Molecular Analysis;Laboratory Procedures
+Laboratory Tests;Immunogenicity Specimen Assessments;Immunoglobulin G Measurements;Microbial-induced Antibody Measurement
+Laboratory Tests;Immunogenicity Specimen Assessments;Microbial-induced Antibody Measurements
+Microbiology Tests
+Laboratory Tests;Hematology Tests;Erythrocyte Counts;Blood Cell Count Ratio Measurements
+Morphologic Findings;Metastasis
+Genomic Findings;Molecular Analysis;Microsatellite Instability Analysis
+Laboratory Tests;Mixed Category Laboratory Procedure
+Laboratory Tests;Laboratory Procedures
+Oncology Standards;Diagnostic Tests;Diagnostic Assays;Diagnostic Procedures
+Histopathology Findings;Microscopic Findings
+Musculoskeletal Finding;Skeletal Examination
+Laboratory Tests;Hematology Tests;Blood Cell Counts;Leukocyte Counts
+Oncology Standards;Disease Response;Disease Response Criteria;Disease Response and Clinical Classification;RS;iRECIST;LUGANO CLASSIFICATION;RANO;IRANO 2015
+Oncology Standards;Disease Response;Disease Response Criteria;Disease Response and Clinical Classification;RS;RECIST 1.1;iRECIST;RAJKUMAR MYELOMA 2011
+Findings About Cardiovascular Events;Cardiovascular System Finding;Symptom
+Laboratory Tests;Chemistry Tests;Drug Class Measurements;CNS Stimulant Drug Measurements
+Subject Disposition;Non-Protocol Disposition Events
+Clinical Trial Attribute;Trial Summary;Findings
+Reproductive Findings;Intervention or Procedure
+Diagnostic Tests;Diagnostic Assays;Diagnostic Procedures;Gene Expression Analysis;Assays
+Findings;Status;Medical Status
+Characteristic
+Oncology Standards;Disease Response;Disease Response Criteria;Disease Response and Clinical Classification;RS;RECIST 1.1;iRECIST;LUGANO CLASSIFICATION;RANO;IRANO 2015;PONTE-DI-LEGNO CONSORTIUM 2022;RAJKUMAR MYELOMA 2011
+Respiratory System Findings;Vital Signs;Oxygen Saturation Measurements;Oximetry Tests
+Respiratory System Findings;Pulmonary Function Test;Vital Signs;Oxygen Saturation Measurements
+QRS;Clinical or Research Assessment Classification;Psoriasis Area and Severity Index Fredriksson Version Clinical Classification;PASI FREDRIKSSON;PASI03;Psoriasis Area and Severity Index Fredriksson Version Clinical Classification Question
+QRS;Clinical or Research Assessment Questionnaire;Patient Global Impression Generic Modification Version Questionnaire;PGI;PGI01;PGI Generic Modification Version Questionnaire Question
+Laboratory Tests;Blood Oxygen Levels;Respiratory System Findings
+Laboratory Tests;Chemistry Tests;Arterial Blood Gas Measurements
+QRS;Clinical or Research Assessment Questionnaire;Patient Global Impression Generic Modification Version Questionnaire;PGI;PGI01
+Laboratory Tests;Gene Products
+Disease Response;Tumor Results;Tumor Measurements
+Findings;Properties
+Contact Information
+Personal Attributes
+Diagnostic Procedure;Imaging Procedure
+Physical Examination
+Physical Examination Finding
+Laboratory Tests;Physical Property
+Clinical Findings Indicators;Respiratory System Findings
+Laboratory Tests;Hematology Tests;Abnormal Blood Chemistry and Hematology Test Results
+Death Diagnosis and Details;Cause of Death
+Laboratory Tests;Chemistry Tests;Endocrine Tests;Hormone Measurements;Protein or Enzyme Type Measurement
+Oncology Standards;Tumor Results
+Laboratory Tests;Chemistry Tests;Urine Chemistry Tests;Urine Protein Measurements
+Laboratory Tests;Chemistry Tests;Protein or Enzyme Type Measurements;Prothrombin Measurements;Coagulation Study
+Laboratory Tests;Chemistry Tests;Coagulation Study;Prothrombin Activity Measurements;Drug-Induced Liver Injury;DILI
+Subject Disposition;Protocol Disposition Events
+Findings;Clinical Test Result;Fat Quantification;Liver Findings;Urinary System Findings
+QRS;QRS;Clinical or Research Assessment Classification;Psoriasis Area and Severity Index Fredriksson Version Clinical Classification;PASI FREDRIKSSON;PASI03
+Respiratory System Findings;Pulmonary Function Tests;Vital Signs
+Demographic Data;Demographics;Population Group
+Oncology Standards;Therapeutic Procedure;Radiation Therapy
+Diagnostic Procedure;Diagnostic Imaging;NM;Nuclear Medicine
+Musculoskeletal Finding;Range of Motion
+Grade;Skin Response
+Disease Response;Recurrence;Indicators
+Diagnostic Tests
+Disease Response;Recurrent Disease
+Oncology Standards;Recurrent Disease;Disease Response
+Tumor Results;Disease Response
+Oncology Standards;Disease Response;Disease Response Criteria;Disease Response and Clinical Classification;RS;RECIST 1.1;iRECIST;LUGANO CLASSIFICATION
+Oncology Standards;Disease Response;Disease Response Criteria;Disease Response and Clinical Classification;RS;RECIST 1.1;iRECIST;LUGANO CLASSIFICATION;RANO;IRANO 2015
+Diagnostic Factors
+QRS;Clinical or Research Assessment Classification;Rutgeerts Score Clinical Classification;RUTGEERTS SCORE;RUTG01;Rutgeerts Score Clinical Classification Question
+QRS;Clinical or Research Assessment Classification;Rutgeerts Score Clinical Classification;RUTGEERTS SCORE;RUTG01
+Diagnostic Procedures;Biopsies;Breast Cancer Diagnostic Procedures
+Genomic Findings;Genetic Variation
+Demographic Data;Demographics;Personal Attribute
+Integumentary System Findings
+Subject Characteristics;Social Circumstances
+Laboratory Tests;Chemistry Tests;Clearance Rates
+Source
+Laboratory Tests;Urinalysis;Assay
+Protocol Events;Protocol Disposition Events
+Exposure Reported Name of Treatment
+Subject Disposition;Disposition Events;Non-Protocol Disposition Events;Other Events
+Demographic Data;Demographics;Personal Attribute;Age
+Event Occurrence Indicators;Substance Use
+Death Diagnosis and Details;Death Indicator
+Pathology;Microscopic Findings
+Clinical Interventions;Procedures;Operations
+Musculoskeletal Finding;Symptom Indicator
+Musculoskeletal Finding;Symptom Indicator;Reproductive Findings;Clinical Findings Indicator;Symptom Indicator;Skin Response;Reproductive Findings;Respiratory System Findings
+Questionnaires;Surveys;Acceptability Surveys
+QRS;Clinical or Research Assessment Classification;Tanner Scale-Boy Clinical Classification Question;Tanner Scale Boy Version;TANN02;TANNER SCALE BOY;Tanner Scale-Boy;Tanner Scale-Girl Clinical Classification Question;Tanner Scale Girl Version;TANN01;TANNER SCALE GIRL;Tanner Scale Girl Version;Tanner Scale-Girl
+QRS;Clinical or Research Assessment Classification;Tanner Scale-Boy Clinical Classification Question;Tanner Scale Boy Version;TANN02;TANNER SCALE BOY;Tanner Scale-Boy
+QRS;Clinical or Research Assessment Classification;Tanner Scale-Girl Clinical Classification Question;Tanner Scale Girl Version;TANN01;TANNER SCALE GIRL;Tanner Scale Girl Version;Tanner Scale-Girl
+Test Occurrence;Test Performed
+Clinical Trial Attribute;Trial Summary;Oncology Standards;Therapeutic Procedure;Radiation Therapy
+Reproductive Findings;Nervous System Findings;Biospecimen Findings;Microscopic Findings;Ophthalmic Findings
+Laboratory Tests;Protein or Riboprotein Complexes
+Number
+Laboratory Tests;Chemistry Tests;Protein Measurements
+Genomic Findings;Gene Expression Process;Transcription Process
+Laboratory Tests;Microbiology Tests;Immunology Tests;Antibody Measurements
+Laboratory Tests;Microbiology Tests;Immunology Tests
+Laboratory Tests;Microbiology Tests;Serology Tests;Gram Negative Bacteria Measurements
+Receptor Status
+Laboratory Tests;Chemistry Tests;Protein or Enzyme Type Measurements;Troponin Measurements
+Clinical Trial Attribute;Trial Summary;Type
+Subject Disposition;Disposition Events;Other Events;Blinding
+Medical Examination;Urinary System Findings
+Genomic Findings;Genetic Variation Analysis
+Clinical Interpretation;Skin Response
+Mean Diameter;Skin Response
+Diagnostic Procedure;Skin Response
+Subject Disposition;Disposition Events;Other Events;Consent;Withdrawal
+Laboratory Tests;Urinalysis
